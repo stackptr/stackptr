@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**stackptr/stackptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <samp>
+    The best baseball bats are turned from hibiscus.<br/>
+    They're good against people who get in your way.<br/>
+    The best poems, meanwhile, give the answers<br/>
+    to questions only they have raised.
+  </samp>
+  <br/><br/>
+  <img src="https://i.imgur.com/C076vrS.gif" width="87px">
+</p>
